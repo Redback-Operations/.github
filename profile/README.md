@@ -4,6 +4,8 @@ Redback Operations is a capstone project company within the School of Informatio
 
 Redback Operations is dedicated to revolutionizing the fitness experience by developing state-of-the-art connected fitness devices that not only enhance the enjoyment of physical activity but also its effectiveness. At the heart of our mission is a relentless drive for innovation and continuous improvement. This commitment is reflected in our diverse portfolio of projects, each designed to elevate the quality and effectiveness of training while also focusing on injury prevention. Through these initiatives, Redback Operations aims to empower individuals in their pursuit of fitness, making every workout smarter, safer, and more enjoyable.
 
+Project documentation: [https://redback-operations.github.io/redback-documentation/](https://redback-operations.github.io/redback-documentation/)
+
 Repositories relevant to each project can be found below.
 
 ## Redback SmartBike: VR SunCycle SmartBike

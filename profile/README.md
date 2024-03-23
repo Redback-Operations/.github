@@ -11,7 +11,7 @@ This project aims to revolutionize indoor exercise by merging Virtual Reality (V
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-smartbike-web)](https://github.com/Redback-Operations/redback-smartbike-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-smartbike-mobile)](https://github.com/Redback-Operations/redback-smartbike-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
 
 ## Redback Senior: Wearable technology for the elderly
@@ -19,7 +19,7 @@ This project is dedicated to harnessing the potential of wearable technology to 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-senior-web)](https://github.com/Redback-Operations/redback-senior-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-senior-mobile)](https://github.com/Redback-Operations/redback-senior-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=Elderly_Wearable_Tech)](https://github.com/Redback-Operations/Elderly_Wearable_Tech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-chatbot)](https://github.com/Redback-Operations/redback-chatbot)
@@ -29,7 +29,7 @@ The Athlete Wearables Tech initiative, previously known as the Sports Performanc
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-fit-web)](https://github.com/Redback-Operations/redback-fit-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-fit-mobile)](https://github.com/Redback-Operations/redback-fit-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
 
 ## Redback Orion: Crowd Monitoring and Player Tracking

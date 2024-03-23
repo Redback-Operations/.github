@@ -40,6 +40,6 @@ Named after the astute hunter of Greek mythology and the constellation that illu
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
 
 ## Cyber Security
-Cybersecurity Team is dedicated to safeguarding Redback Operations through continuous improvement, strategic planning, and the implementation of best practices in security. This team is also the current custodians of Redback's new documentation website.
+Cybersecurity Team is dedicated to safeguarding Redback Operations through continuous improvement, strategic planning, and the implementation of best practices in security. This team is also the current custodian of Redback's new documentation website.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-documentation)](https://github.com/Redback-Operations/redback-documentation)

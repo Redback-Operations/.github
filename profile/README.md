@@ -46,3 +46,4 @@ Named after the astute hunter of Greek mythology and the constellation that illu
 Cybersecurity Team is dedicated to safeguarding Redback Operations through continuous improvement, strategic planning, and the implementation of best practices in security. This team is also the current custodian of Redback's new documentation website.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-documentation)](https://github.com/Redback-Operations/redback-documentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cyber)](https://github.com/Redback-Operations/redback-cyber)

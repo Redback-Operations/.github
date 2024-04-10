@@ -30,6 +30,7 @@ This project is dedicated to harnessing the potential of wearable technology to 
 ## Redback Fit: Wearable Technology for athletes
 The Athlete Wearables Tech initiative, previously known as the Sports Performance Analysis project, is dedicated to exploiting the vast potential of data derived from wearable technology in various sports. This pioneering project aims at augmenting athletic performance through detailed data analytics and advanced predictive modelling.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-fit-sports-performance)](https://github.com/Redback-Operations/redback-fit-sports-performance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-fit-web)](https://github.com/Redback-Operations/redback-fit-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-fit-mobile)](https://github.com/Redback-Operations/redback-fit-mobile)

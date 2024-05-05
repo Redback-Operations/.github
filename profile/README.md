@@ -39,9 +39,10 @@ The Athlete Wearables Tech initiative, previously known as the Sports Performanc
 ## Redback Orion: Crowd Monitoring and Player Tracking
 Named after the astute hunter of Greek mythology and the constellation that illuminates our night sky, Project Orion represents a pioneering venture poised to redefine our engagement with sports. Project Orion is a cutting-edge initiative designed to revolutionise the way we perceive and interact with the sports field. Orion, renowned for his ability to never lose track of his target, perfectly embodies our  mission. Project Orion's primary objective is to forge an intelligent, real-time tracking system for athletes, employing cutting-edge wearable IoT (Internet of Things) technology.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion)](https://github.com/Redback-Operations/redback-orion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion-mobile)](https://github.com/Redback-Operations/redback-orion-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion-web)](https://github.com/Redback-Operations/redback-orion-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion-mobile)](https://github.com/Redback-Operations/redback-orion-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
 
 ## Cyber Security

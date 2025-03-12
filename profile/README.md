@@ -17,6 +17,8 @@ This project aims to revolutionize indoor exercise by merging Virtual Reality (V
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-smartbike-vr)](https://github.com/Redback-Operations/redback-smartbike-vr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-smartbike-playground)](https://github.com/Redback-Operations/redback-smartbike-playground)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-smartbike-iot)](https://github.com/Redback-Operations/redback-smartbike-iot)
+
 
 ## Redback Senior: Wearable technology for the elderly
 This project is dedicated to harnessing the potential of wearable technology to significantly enhance the quality of life for the elderly. It skilfully employs advanced data analytics, innovative web platforms, and sophisticated mobile app development tools to meet its goals.

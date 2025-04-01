@@ -58,3 +58,8 @@ Cybersecurity Team is dedicated to safeguarding Redback Operations through conti
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-documentation)](https://github.com/Redback-Operations/redback-documentation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cyber)](https://github.com/Redback-Operations/redback-cyber)
+
+## Ethics
+The ethics team is focused on ensuring responsible, thoughtful development across all projects, prioritizing privacy, fairness, and societal impact. Their work involves defining ethical guidelines, conducting research on regulations and biases, and assessing risks associated with technology. They strive to create tools and workflows that not only solve problems but also respect user rights, promote transparency, and minimize harm.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ethics)](https://github.com/Redback-Operations/redback-ethics)

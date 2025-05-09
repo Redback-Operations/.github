@@ -28,7 +28,7 @@ This project is dedicated to harnessing the potential of wearable technology to 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-senior-mobile)](https://github.com/Redback-Operations/redback-senior-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=Elderly_Wearable_Tech)](https://github.com/Redback-Operations/Elderly_Wearable_Tech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-senior-tech)](https://github.com/Redback-Operations/redback-senior-tech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-chatbot)](https://github.com/Redback-Operations/redback-chatbot)
 
 ## Redback Fit: Wearable Technology for athletes
